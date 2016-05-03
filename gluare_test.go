@@ -2,7 +2,7 @@ package gluare
 
 import (
 	"fmt"
-	"github.com/yuin/gopher-lua"
+	"github.com/bitwakler/gopher-lua"
 	"os"
 	"testing"
 )

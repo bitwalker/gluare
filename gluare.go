@@ -1,7 +1,7 @@
 package gluare
 
 import (
-	"github.com/yuin/gopher-lua"
+	"github.com/bitwalker/gopher-lua"
 	"regexp"
 	"strings"
 )
